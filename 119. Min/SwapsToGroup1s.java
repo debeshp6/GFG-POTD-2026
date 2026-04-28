@@ -1,4 +1,4 @@
-class Solution {
+class Solution { 
     public int minSwaps(int[] arr) {
         int numOnes = 0;
         for (int i = 0; i < arr.length; i++) {
